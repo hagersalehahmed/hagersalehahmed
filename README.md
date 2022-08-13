@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hager Saleh</h1>
-I obtained the P.hD degree from Faculty of Computer and Information University, Minia University, Minia (Egypt). An applied machine learning and deep learning specialist. I have been worked in different research projects. I have been published papers in different journal with high impact factor. Worked with various machine learning and deep learning platforms and libraries including sikitlearn, Kearse, and pandas.
+I obtained the P.hD degree from Faculty of Computer and Information University, Minia University, Minia (Egypt). An applied machine learning and deep learning specialist. I have been worked in different research projects. I have been published papers in different journal with high impact factor. My work has been focused on Big Data, Deep Learning, Machine Learning, NLP, Time Series.
 
 - 🔭 I’m currently working on **Machine Learning Enginner, Researcher**
 
