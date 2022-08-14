@@ -12,6 +12,7 @@ I obtained the P.hD degree from Faculty of Computer and Information University, 
 - 💬 Ask me about **Machine Learning, Deep Learning, NLP, Time Series, Image Processing**
 
 - 📫 How to reach me **hager.saleh.fci@gmail.com**
+- ResearchGate: https://www.researchgate.net/profile/Hager-Saleh-4/research
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
